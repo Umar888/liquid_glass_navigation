@@ -1,7 +1,7 @@
 # liquid_glass_nav_bar
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/umar-ghaffar/liquid_glass_nav_bar/main/doc/demo.gif" alt="Liquid Glass navigation bar demo" width="320">
+  <img src="https://raw.githubusercontent.com/Umar888/liquid_glass_nav_bar/main/doc/demo.gif" alt="Liquid Glass navigation bar demo" width="320">
 </p>
 
 iOS 26 style **Liquid Glass** navigation for Flutter, on iOS and Android.
@@ -158,4 +158,4 @@ the pill slides back.
 ## Contributing
 
 Issues and pull requests are welcome on
-[GitHub](https://github.com/umar-ghaffar/liquid_glass_nav_bar).
+[GitHub](https://github.com/Umar888/liquid_glass_nav_bar).
