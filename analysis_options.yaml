@@ -1,0 +1,12 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  exclude:
+    - build/**
+
+linter:
+  rules:
+    # the widgets assert on items.length, which can't run in a const constructor
+    prefer_const_constructors_in_immutables: false
+    prefer_single_quotes: true
+    sort_child_properties_last: true
