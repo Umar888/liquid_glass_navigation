@@ -5,7 +5,7 @@ import 'dart:async';
 
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
-import 'package:liquid_glass_nav_bar_example/main.dart';
+import 'package:liquid_glass_navigation_example/main.dart';
 
 void main() {
   runApp(const DemoApp());

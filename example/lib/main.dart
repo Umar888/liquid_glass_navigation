@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:liquid_glass_nav_bar/liquid_glass_nav_bar.dart';
+import 'package:liquid_glass_navigation/liquid_glass_navigation.dart';
 
 void main() => runApp(const DemoApp());
 

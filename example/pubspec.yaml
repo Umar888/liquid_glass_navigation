@@ -1,5 +1,5 @@
-name: liquid_glass_nav_bar_example
-description: "Demo app for liquid_glass_nav_bar."
+name: liquid_glass_navigation_example
+description: "Demo app for liquid_glass_navigation."
 publish_to: 'none'
 version: 0.1.0+1
 
@@ -9,7 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  liquid_glass_nav_bar:
+  liquid_glass_navigation:
     path: ../
 
 dev_dependencies:

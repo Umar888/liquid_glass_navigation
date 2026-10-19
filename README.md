@@ -1,7 +1,7 @@
-# liquid_glass_nav_bar
+# liquid_glass_navigation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Umar888/liquid_glass_nav_bar/main/doc/demo.gif" alt="Liquid Glass navigation bar demo" width="320">
+  <img src="https://raw.githubusercontent.com/Umar888/liquid_glass_navigation/main/doc/demo.gif" alt="Liquid Glass navigation bar demo" width="320">
 </p>
 
 iOS 26 style **Liquid Glass** navigation for Flutter, on iOS and Android.
@@ -24,11 +24,11 @@ desktop, and a scaffold that switches between them for you.
 
 ```yaml
 dependencies:
-  liquid_glass_nav_bar: ^0.1.0
+  liquid_glass_navigation: ^0.1.0
 ```
 
 ```dart
-import 'package:liquid_glass_nav_bar/liquid_glass_nav_bar.dart';
+import 'package:liquid_glass_navigation/liquid_glass_navigation.dart';
 ```
 
 ## Usage
@@ -158,4 +158,4 @@ the pill slides back.
 ## Contributing
 
 Issues and pull requests are welcome on
-[GitHub](https://github.com/Umar888/liquid_glass_nav_bar).
+[GitHub](https://github.com/Umar888/liquid_glass_navigation).

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:liquid_glass_nav_bar/liquid_glass_nav_bar.dart';
+import 'package:liquid_glass_navigation/liquid_glass_navigation.dart';
 
 const _items = [
   LiquidNavItem(

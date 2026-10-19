@@ -1,10 +1,10 @@
-name: liquid_glass_nav_bar
+name: liquid_glass_navigation
 description: >-
   iOS 26 style Liquid Glass navigation for Flutter. A floating glass bottom bar,
   a glass side rail and an adaptive scaffold with a stretchy, draggable pill.
 version: 0.1.0
-repository: https://github.com/Umar888/liquid_glass_nav_bar
-issue_tracker: https://github.com/Umar888/liquid_glass_nav_bar/issues
+repository: https://github.com/Umar888/liquid_glass_navigation
+issue_tracker: https://github.com/Umar888/liquid_glass_navigation/issues
 topics:
   - navigation
   - bottom-navigation-bar
