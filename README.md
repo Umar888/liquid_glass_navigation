@@ -159,3 +159,10 @@ the pill slides back.
 
 Issues and pull requests are welcome on
 [GitHub](https://github.com/Umar888/liquid_glass_navigation).
+
+## Author
+
+Made by [Umar Ghaffar](https://github.com/Umar888). If this package saves you
+some time, a like on pub.dev or a star on GitHub is much appreciated.
+
+Also by me: [scroll_edge_blur](https://pub.dev/packages/scroll_edge_blur), iOS style progressive edge blur for scroll views, toolbars and headers.

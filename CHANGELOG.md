@@ -1,3 +1,7 @@
+## 0.1.1
+
+* README: author section and a link to scroll_edge_blur.
+
 ## 0.1.0
 
 * Initial release.
